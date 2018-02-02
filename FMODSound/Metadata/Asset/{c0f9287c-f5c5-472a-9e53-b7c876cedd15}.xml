@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EncodableAsset" id="{c0f9287c-f5c5-472a-9e53-b7c876cedd15}">
+        <property name="assetPath">
+            <value>Player Sounds/ThrowVoice/</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{d4bc852d-c9c3-43c1-b7f7-5339fe8d8e61}</destination>
+        </relationship>
+    </object>
+</objects>

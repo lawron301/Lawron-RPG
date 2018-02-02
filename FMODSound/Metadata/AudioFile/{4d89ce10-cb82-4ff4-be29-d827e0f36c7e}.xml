@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{4d89ce10-cb82-4ff4-be29-d827e0f36c7e}">
+        <property name="assetPath">
+            <value>MagicBallHitGround/cn6.mp3</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.52244897959183678</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{d4bc852d-c9c3-43c1-b7f7-5339fe8d8e61}</destination>
+        </relationship>
+    </object>
+</objects>

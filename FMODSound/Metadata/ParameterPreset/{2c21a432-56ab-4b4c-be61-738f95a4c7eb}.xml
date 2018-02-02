@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{2c21a432-56ab-4b4c-be61-738f95a4c7eb}">
+        <property name="name">
+            <value>HitGround</value>
+        </property>
+        <relationship name="folder">
+            <destination>{150cc0b7-acb9-460d-927e-2fa2ee245532}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{c0109b70-e055-4895-a122-8199cb77f7e9}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{c0109b70-e055-4895-a122-8199cb77f7e9}">
+        <property name="isHeld">
+            <value>true</value>
+        </property>
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+    </object>
+</objects>

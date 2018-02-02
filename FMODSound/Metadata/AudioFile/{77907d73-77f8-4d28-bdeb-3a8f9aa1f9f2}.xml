@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{77907d73-77f8-4d28-bdeb-3a8f9aa1f9f2}">
+        <property name="assetPath">
+            <value>BG Music/bGMusic.mp3</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>190.45877551020408</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{d4bc852d-c9c3-43c1-b7f7-5339fe8d8e61}</destination>
+        </relationship>
+    </object>
+</objects>

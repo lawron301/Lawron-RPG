@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{a65f2311-8767-43c8-b483-0a1613fbd67c}">
+        <property name="name">
+            <value>HitMagicArea</value>
+        </property>
+        <relationship name="folder">
+            <destination>{150cc0b7-acb9-460d-927e-2fa2ee245532}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{54326dbf-cd26-40b0-9660-0e895f37f874}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{54326dbf-cd26-40b0-9660-0e895f37f874}">
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+    </object>
+</objects>

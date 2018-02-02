@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EncodableAsset" id="{7ac9337e-b947-4ec0-bfe4-3566c47e9ca0}">
+        <property name="assetPath">
+            <value>MagicBall/throw/</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{d4bc852d-c9c3-43c1-b7f7-5339fe8d8e61}</destination>
+        </relationship>
+    </object>
+</objects>
